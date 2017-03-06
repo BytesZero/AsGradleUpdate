@@ -8,6 +8,8 @@ Version|Url
 3.3|`http\://ome2s08jl.bkt.clouddn.com/gradle-3.3-all.zip`
 2.14.1|`http\://ome2s08jl.bkt.clouddn.com/gradle-2.14.1-all.zip`
 
+![Gradle Version](https://services.gradle.org/distributions)
+
 ## 配置教程
 
 1、找到并打开 `gradle-wrapper.properties` 文件
