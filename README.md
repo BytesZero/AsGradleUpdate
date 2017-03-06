@@ -6,7 +6,7 @@ Android Studio gradle update(帮助你免翻墙更新gradle，避免升级卡死
 Version|Url
 ---|---
 3.3|`http\://ome2s08jl.bkt.clouddn.com/gradle-3.3-all.zip`
-2.14.1|`http\://ome2s08jl.bkt.clouddn.com/gradle-2.14.1-all.zip.zip`
+2.14.1|`http\://ome2s08jl.bkt.clouddn.com/gradle-2.14.1-all.zip`
 
 ## 配置教程
 
